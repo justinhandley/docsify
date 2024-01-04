@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 justinhandley/docsify is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -16,11 +17,13 @@ justinhandley/docsify is built on the following main stack:
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 justinhandley/docsify is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -35,14 +38,15 @@ justinhandley/docsify is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [justinhandley/docsify](https://github.com/justinhandley/docsify)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|45<br/>Tools used|11/09/23 <br/>Report generated|
+|48<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -203,9 +207,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (28)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (31)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (28)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (31)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -219,12 +223,15 @@ Full tech stack [here](/techstack.md)
 |[conventional-changelog-cli](https://www.npmjs.com/conventional-changelog-cli)|v2.1.0|10/05/20|John Hildenbiddle |ISC|N/A|
 |[copy-dir](https://www.npmjs.com/copy-dir)|v1.3.0|01/30/20|Anix |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v6.0.3|10/05/20|John Hildenbiddle |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v4.1.10|10/16/19|Andrey Chalkin |MIT|N/A|
 |[debug](https://www.npmjs.com/debug)|v2.6.9|12/31/20|Snyk bot |MIT|N/A|
 |[eslint-plugin-import](https://www.npmjs.com/eslint-plugin-import)|v2.22.1|11/28/20|沈唁 |MIT|N/A|
 |[eslint-plugin-jest](https://www.npmjs.com/eslint-plugin-jest)|v24.0.2|11/28/20|沈唁 |MIT|N/A|
 |[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v3.1.4|11/28/20|沈唁 |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v3.1.0|12/19/19|James George |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v10.4.0|10/05/20|John Hildenbiddle |MIT|N/A|
 |[live-server](https://www.npmjs.com/live-server)|v1.2.1|05/23/20|Joe Pea |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v1.2.4|12/11/20|Snyk bot |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2021-21306](https://github.com/advisories/GHSA-4r62-v4vq-hr96) (Moderate)|
+|[marked](https://www.npmjs.com/marked)|v1.2.4|12/11/20|Snyk bot |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2021-21306](https://github.com/advisories/GHSA-4r62-v4vq-hr96) (Moderate)|
 |[mkdirp](https://www.npmjs.com/mkdirp)|v0.5.5|12/16/19|anikethsaha |MIT|N/A|
 |[node-fetch](https://www.npmjs.com/node-fetch)|v2.6.1|10/16/19|Andrey Chalkin |MIT|[CVE-2022-0235](https://github.com/advisories/GHSA-r683-j2x4-v87g) (High)|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|12/16/19|anikethsaha |MIT|N/A|
@@ -241,4 +248,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
